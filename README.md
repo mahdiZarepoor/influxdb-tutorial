@@ -1,3 +1,6 @@
+You can find the video for this tutorial [here](https://www.youtube.com/watch?v=gjM_9be5doE&t=315s)
+
+
 # influxdb-tutorial
 1) ## Install influxdb2 on Ubuntu 
 
